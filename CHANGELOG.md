@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.19.0
+
+-   bc46870: Update request header to include `"ai-client-type": "Cline"`
+
 ## [3.18.5]
 
 -   Fix Plan/Act mode persistence across sessions and multi-workspace conflicts
