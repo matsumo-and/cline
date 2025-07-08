@@ -2,8 +2,6 @@
 
 ## 3.19.0
 
-### Minor Changes
-
 -   bc46870: Update request header to include `"ai-client-type": "Cline"`
 
 ## [3.18.5]
